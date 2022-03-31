@@ -149,3 +149,7 @@ background-color: red;
 opacity: .7;
 
 }
+button a{
+  color: white;
+  text-decoration: none;
+}
