@@ -107,4 +107,9 @@
     justify-content: center;
     height: auto;
   }
+  div a{
+    color: red;
+    opacity: .6;
+    text-decoration: none;
+  }
   
